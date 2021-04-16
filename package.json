@@ -1,0 +1,36 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "css-declaration-sorter": "^4.0.1",
+    "gulp": "^4.0.2",
+    "gulp-connect-php": "^1.0.3",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "webpack": "^4.41.1",
+    "webpack-cli": "^3.3.9",
+    "webpack-stream": "^5.2.1"
+  },
+  "browserslist": [
+    "last 3 versions",
+    "ie >= 11",
+    "Android >= 4",
+    "ios_saf >= 10"
+  ]
+}
